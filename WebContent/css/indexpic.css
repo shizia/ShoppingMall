@@ -1,0 +1,16 @@
+.show_pic{
+    background-color:white;
+    border-bottom:23px solid #3A4953;
+    margin-left: 120px;
+    width:1250px;
+    height:350px;
+    overflow: hidden;
+}
+.show_pic img{
+    margin-left: 300px;
+    width:600px;
+    height:350px;
+}
+.my{
+	margin-left: 1200px;
+}

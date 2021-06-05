@@ -1,0 +1,45 @@
+.head{
+	
+	height: 140px;
+	width: 100%;
+}
+.menu{	
+	background-color:#F4F4F4;
+	height: 40px;
+	width: 100%;
+}
+.head2{
+	height: 100px;
+	width: 100%;
+}
+/* ul li�Ժ�����ʾ */
+
+/* ����classΪmenu��div�е�ul��ʽ */
+.menu ul {
+	list-style: none; /* ȥ��ulǰ��ķ��� */
+	margin-left: 80px;
+}
+/* ����classΪmenu��div�е�ul�е�li��ʽ */
+.menu ul li {
+	float: left; /* ����Ư�ƣ������ű�Ϊ���� */
+	margin-left: 30px;
+}
+/* ����classΪmenu��div�е�ul�е�a��ʽ(������δ����ĺ͵��������ʽ) */
+.menu ul li a{	
+	color: gray; /* ������ɫ */
+	font-size:small;	
+	text-decoration: none; /* ����ʾ�������»��� */
+}
+.div2{
+	margin-top:5px;
+	float:left;
+}
+.div3{
+	margin-top:3px;
+	width: 25px; 
+	float:left;
+}
+.div4 img{
+	margin-left:100px;
+	
+}
